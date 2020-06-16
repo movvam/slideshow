@@ -2,7 +2,7 @@ import cv2
 import numpy as np 
 import os, time
 
-
+# doo doo doo this is my change
 
 
 # we define the location of the folder
